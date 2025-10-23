@@ -1,0 +1,4 @@
+Json é o meio de transporte de dados entre o servidor e a Pagina web.
+
+Ele é bem parecido com o STRUCT, e o GO tem um suporte muito completo,
+que permite tornar uma STRUCT um JSON e um JSON em uma STRUCT
